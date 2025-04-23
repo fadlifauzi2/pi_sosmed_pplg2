@@ -3,7 +3,7 @@ const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
   class user extends Model {
     static associate(models) {
-      // mendefinisikan asosiasi di sini
+      // menefinisikan asosiasi di sini
       // user.hasMany(models.student, {
       //     foreignKey: 'user_id',
       //     as: 'students'
