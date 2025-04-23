@@ -5,9 +5,9 @@ POST http://127.0.0.1:3000/student
 Content-Type: application/json
 
 {
-    "firstName":"Sulthannnnn",
-    "lastName":"Biannnnn",
-    "classes":"X",
+    "firstName":"Fadli",
+    "lastName":"Fauzi",
+    "classes":"XI",
     "major_id": 1,
     "gender": "M"
 }
