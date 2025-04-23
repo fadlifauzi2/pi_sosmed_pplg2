@@ -6,7 +6,7 @@ Content-Type: application/json
 
 {
     "firstName":"Fadli",
-    "lastName":"Fauzi",
+    "lastName":"Fauzii",
     "classes":"XI",
     "major_id": 1,
     "gender": "M"
